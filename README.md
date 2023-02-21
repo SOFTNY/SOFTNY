@@ -5,8 +5,8 @@
 <h3 align="center"><b>❤️About me❤️</b></h3>
 <p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
-<p align="center">Hi There! I'm a Client developer.</p>
-<p align="center"> My main skills are Android,Kotlin,Python.</p>
+<p align="center">Hi There! I'm a...</p>
+<p align="center"> My main skills are...</p>
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
 <p align="center">Please look forward to my growth. Bye~</p>
 
