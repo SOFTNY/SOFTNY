@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00CCFF&fontColor=CCFFFF&text=Welcome&animation=)
 
-
+<div align="center">
 <h3 align="center"><b>❤️About me❤️</b></h3>
 <p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
@@ -11,13 +11,13 @@
 
 <br>
 
-<h3 align="center">❤️ I like...</h3>
-<p align="center">🐶Puppy,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies</p>
+<h3>❤️ I like...</h3>
+<p>🐶Puppy,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies</p>
 
 <br>
 <br>
 
-<h3 align="center"><b>✏️ Studying ✏️</b></h3>
+<h3><b>✏️ Studying ✏️</b></h3>
 </br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -41,3 +41,4 @@
 &nbsp;&nbsp 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOFTNY&layout=compact)](https://github.com/SOFTNY/github-readme-stats)
+</div>
