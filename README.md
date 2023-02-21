@@ -1,7 +1,7 @@
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00CCFF&fontColor=CCFFFF&text=Welcome&animation=)
 
-
+<div align="center">
 <h3 align="center"><b>❤️About me❤️</b></h3>
 <p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
