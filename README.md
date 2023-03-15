@@ -1,6 +1,5 @@
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00CCFF&fontColor=CCFFFF&text=Welcome&animation=)
-</
 
 <div align="center">
 <h3 align="center"><b>❤️About me❤️</b></h3>
