@@ -44,14 +44,3 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=#0d1117">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-
-<br><br>
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?Diamondj={SOFTNY})](https://solved.ac/{SOFTNY})
-
-
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOFTNY&layout=compact)](https://github.com/SOFTNY/github-readme-stats)
-</div>
