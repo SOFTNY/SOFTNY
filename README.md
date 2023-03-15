@@ -1,5 +1,6 @@
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00CCFF&fontColor=CCFFFF&text=Welcome&animation=)
+</
 
 <div align="center">
 <h3 align="center"><b>❤️About me❤️</b></h3>
@@ -43,4 +44,4 @@
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=#0d1117">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
+</div>
