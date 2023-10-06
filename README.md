@@ -3,7 +3,7 @@
 
 <div align="center">
 <h3 align="center"><b>❤️About me❤️</b></h3>
-<p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/>https://code-pulse.tistory.com/category/SW</a></p>
+<p align="center"><a href="" target="_blank">https://code-pulse.tistory.com/category/SW<img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
 <p align="center">Hi There! I'm a...</p>
 <p align="center"> My main skills are...</p>
