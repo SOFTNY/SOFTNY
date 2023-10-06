@@ -3,16 +3,15 @@
 
 <div align="center">
 <h3 align="center"><b>❤️About me❤️</b></h3>
-<p align="center"><a href="" target="_blank">https://code-pulse.tistory.com/category/SW<img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
-
-<p align="center">Hi There! I'm a...</p>
-<p align="center"> My main skills are...</p>
-<p align="center">I am a developer that continues to grow in the future. 🔥</p>
+ 
+<p align="center">Hello, I'm Na-young Kim, dreaming of developing the front end based on user experience.</p>
+<p align="center">Studying at the Front-end...</p>
+<p align="center">I am a developer that continues to grow in the future🔥</p>
 <p align="center">Please look forward to my growth. Bye~</p>
 
 <br>
 
-<h3>❤️ I like...</h3>
+<h3>❤️ I like ❤️</h3>
 <p>🐶Puppy,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies</p>
 
 <br>
